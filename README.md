@@ -1,4 +1,4 @@
-# Linkedin Summarizer
+# LinkedIn Summarizer
 Application that summarizes user LinkedIn profile by entered user name.
 
 ### Run application:
